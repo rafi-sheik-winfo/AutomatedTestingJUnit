@@ -27,7 +27,7 @@ public class calculatorTest {
 
 	@Test
 	public void subtractTwoNumbers() {
-		assertEquals(0, calc.subtract(10, 10));
+		assertEquals(1, calc.subtract(10, 10));
 		
 	}
 
